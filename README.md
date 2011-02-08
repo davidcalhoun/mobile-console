@@ -14,7 +14,7 @@ Most folks don't enjoy reading JavaScript on a small screen (who would've though
 
 ### In progress!
 
-What's up here now is very rough and was sort of [http://2011.jsconf.us/#/proposal/eedf3aa8dabe4621ac6c1cf7f1ffd765](cobbled together for jsconf 2011).  It'll be a bit more refined with time, with more explanation and many more revisions I'm sure.
+What's up here now is very rough and was sort of [cobbled together for jsconf 2011](http://2011.jsconf.us/#/proposal/eedf3aa8dabe4621ac6c1cf7f1ffd765).  It'll be a bit more refined with time, with more explanation and many more revisions I'm sure.
 
 ### TODO
 *   more comments in the code!
